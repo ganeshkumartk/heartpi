@@ -1,4 +1,5 @@
-<h1 align="center"> HeartPi 💓🖱) </h1> <br>
+<h1 align="center"> HeartPi 💓🖱 </h1>
+<h4 align="center">💓🌡IoT based Heart rate measurement using Raspberry pi, OpenCV and Thinkspeak dashboard</h4><br>
 
 Monitoring of Heart Rate is a necessity in almost all the telemedicine fields. The cost of external sensors and the presuure appied by the sensors on the fragile skin of children and old age people invokes the demand for contacless monitoring of Heart Rate. The same can also be used for future research in Stress Monitoring, Measuring attentiveness while watching a video tutorial.
 
@@ -109,6 +110,10 @@ python3 -W ignore Heartrate.py
 
 
 ### Access Demo [ThinkSpeak Dashboard](https://thingspeak.com/channels/1076810)
+
+### Project Report
+
+[IoT based Heart Rate measurement system in Raspberry Pi, OpenCV and Thinkspeak dashboard](https://github.com/CoDeRgAnEsh/heartpi/blob/master/IoT_based_Noncontact_Heart_rate_Monitor_system_in_Raspberry_Pi_using_Webcam_MSM17B034.pdf)
 
 
 
