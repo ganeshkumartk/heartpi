@@ -6,7 +6,7 @@ imageio==2.8.0
 imutils==0.5.3
 itsdangerous==1.1.0
 Jinja2==2.11.3
-joblib==0.15.1
+joblib==1.2.0
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
